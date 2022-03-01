@@ -75,10 +75,11 @@ The following menu is printed:
     src="https://user-images.githubusercontent.com/92651125/156240426-e6057b0f-222f-4142-8c87-6965b4edf5f9.png"
   >
 </p>
+
 The system prints all the courses with their computed scores.  
-Example (for input 'e'):  
+Example (for input 'e'):
 ```
-90210 Advanced Programming 1, 355
-Class "89110 Computer Science 101" has no students.
-89211 Advanced Programming 2, 342
+90210 Advanced Programming 1, 355  
+Class "89110 Computer Science 101" has no students.  
+89211 Advanced Programming 2, 342  
 ```
