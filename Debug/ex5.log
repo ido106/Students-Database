@@ -1,0 +1,17 @@
+﻿  ex5.c
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(218,52): warning C4133: 'function': incompatible types - from 'Student **' to 'Student **'
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(252,57): warning C4133: '=': incompatible types - from 'Student **' to 'Student **'
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(259,75): warning C4133: '=': incompatible types - from 'Student *' to 'Student *'
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(277,51): warning C4133: 'function': incompatible types - from 'Student **' to 'Student **'
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(281,43): warning C4133: '=': incompatible types - from 'Student **' to 'Student **'
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(274,1): warning C4133: 'initializing': incompatible types - from 'Student **' to 'Student **'
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(353,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(449,51): warning C4133: '=': incompatible types - from 'Student **' to 'Student **'
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(460,51): warning C4133: '=': incompatible types - from 'Student **' to 'Student **'
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(509,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(592,53): warning C4133: 'function': incompatible types - from 'Student **' to 'Student **'
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(639,47): warning C4133: '=': incompatible types - from 'Student *' to 'Student *'
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(687,50): warning C4133: '=': incompatible types - from 'Student **' to 'Student **'
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(842,42): warning C4133: '=': incompatible types - from 'Student **' to 'Student **'
+C:\Users\Ido\Desktop\Projects CS\ex5\ex5\ex5\ex5.c(882,42): warning C4133: '=': incompatible types - from 'Student **' to 'Student **'
+  ex5.vcxproj -> C:\Users\Ido\Desktop\Projects CS\ex5\ex5\Debug\ex5.exe
