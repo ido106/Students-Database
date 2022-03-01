@@ -55,7 +55,7 @@ Student "Israel Israeli" removed from class "89210 Advanced Programming 1".
 Student "Israel Israeli" removed from class "89211 Advanced Programming 2".
 ```
 If the input is invalid, the message ```Error: invalid name or class number``` is printed.  
-If the student is not registered for one of the courses, the request is not executed and the message ```Error: student is not a member of class "89211 Advanced Programming 2".``` is printed.
+If the student is not registered to one of the courses, the request is not executed and the message ```Error: student is not a member of class "89211 Advanced Programming 2".``` is printed.
 
 ### Print a course with its students
 The system receives a course number and prints the registered students in the course with their grades.  
@@ -70,8 +70,15 @@ Ariel Arieli, 98
 The following menu is printed:  
 <p align="left">
   <img 
-    width="300"
-    height="154"
+    width="270"
+    height="139"
     src="https://user-images.githubusercontent.com/92651125/156240426-e6057b0f-222f-4142-8c87-6965b4edf5f9.png"
   >
 </p>
+The system prints all the courses with their computed scores.  
+Example (for input 'e'):  
+```
+90210 Advanced Programming 1, 355
+Class "89110 Computer Science 101" has no students.
+89211 Advanced Programming 2, 342
+```
