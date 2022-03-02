@@ -2,6 +2,7 @@
 In this assignment we will implement a course management system using *dynamic allocation*.  
 ### Introduction
 The system will support the following actions:  
+```
 1) Exit
 2) Create a new course or update an existing course
 3) Registration of a new student for courses with his grades or update existing grades
@@ -14,6 +15,7 @@ The system will support the following actions:
   d) sum of the grades in the course  
   e) number of students in the course  
 7) Reprint the menu
+```
 
 The system starts when there is no information about any course or student.  
 The system supports up to five courses in total, and unlimited number of students in every course.  
